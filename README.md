@@ -11,7 +11,6 @@ I'm Flux, I am a web developer and I also know C++/C#/C and Java/Kotlin and I am
 <div align="center">
 	
 [![Flux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flux&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/iamflux) 
-[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flux&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/iamFlux)
 ### Profile Visits 
 
 ![Visitors](https://komarev.com/ghpvc/?username=Flux&color=blueviolet)
