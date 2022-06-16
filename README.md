@@ -3,7 +3,7 @@
 <h1>Hi, I'm <a href="https://www.github.com/iamflux">Flux</a>!</h1>
 </div>
 
-I'm Flux, I am a web developer and I also know C++/C#/C and Java/Kotlin and I am 15 years old and I am currently learning type script and dart and bash, swift/go
+I'm Flux, I am a web developer and I also know C++/C#/C and Java/Kotlin and I am 15 years old and I am currently learning dart and bash, swift/go
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=iamFlux&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,dart,c,csharp,bash,swift&includeNames=true"></p>
